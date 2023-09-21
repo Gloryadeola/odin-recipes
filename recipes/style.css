@@ -1,0 +1,217 @@
+body{
+    background-color: palegoldenrod;
+}
+
+h1{
+    text-align:center ;
+    font-size: 5rem;
+    color: #817652;
+    font-family:  'Amatic SC', cursive;
+    font-weight: bolder;
+}
+
+h2{
+    color: #817652;
+    font-family:  'Amatic SC', cursive;
+    font-size: 3rem;
+    
+    
+}
+
+h3{
+    text-align: center;
+    font-family:  'Amatic SC', cursive;
+}
+
+img{
+    height: 300px;
+    width: 800px;
+    display: block;
+    margin-left: 20%;
+    
+}
+
+#pic{
+    height:400px;
+    width: 400px;
+}
+
+div{
+    background-color: brown;
+    border: 5px solid peru;
+    border-radius: 20px;
+}
+
+.into{
+    height: 300px;
+    width: 80%;
+    margin-bottom: 50px;
+    text-align: justify;
+}
+#pg{
+    padding: 10px;
+    margin: 20px;
+    font-family:  'Amatic SC', cursive;
+    font-weight:bolder;
+    font-size: large;
+
+}
+
+
+.meat{
+    height: 350px;
+    padding: 20px;
+    width: 250px;
+    display: inline-block;
+    position: relative;
+    bottom:130px;
+    font-family:  'Amatic SC', cursive;
+    font-weight:bolder;
+    font-size: large;
+
+}
+    
+
+.egusi{
+    height: 350px;
+    width: 250px;
+    padding: 20px;
+    display: inline-block;
+    top:10px;
+    position: relative;
+    margin-left: 20px;
+    margin-top: 0px;
+    font-family:  'Amatic SC', cursive;
+    font-weight:bolder;
+    font-size: larger;   
+}
+
+.stock{
+    font-family:  'Amatic SC', cursive;
+    font-size: larger;
+    font-weight: bolder;
+    height: 200px;
+    width: 80%;
+    margin: 20px;
+}
+
+.soup{
+    font-family:  'Amatic SC', cursive;
+    font-size: larger;
+    font-weight: bolder;
+    height: 300px;
+    width: 80%;
+    margin: 20px;
+    margin-top: 30px;
+    padding: 20px;
+}
+
+@media (max-width:680px){
+    body{
+        background-color: palegoldenrod;
+    }
+    
+    h1{
+        text-align:center ;
+        font-size: 5rem;
+        color: #817652;
+        font-family:  'Amatic SC', cursive;
+        font-weight: bolder;
+    }
+    
+    h2{
+        color: #817652;
+        font-family:  'Amatic SC', cursive;
+        font-size: 3rem;
+        
+        
+    }
+    
+    h3{
+        text-align: center;
+        font-family:  'Amatic SC', cursive;
+    }
+    
+    img{
+        height: 300px;
+        width: 800px;
+        display: block;
+        margin-left: 20%;
+        
+    }
+    
+    #pic{
+        height:400px;
+        width: 400px;
+    }
+    
+    div{
+        background-color: brown;
+        border: 5px solid peru;
+        border-radius: 20px;
+    }
+    
+    .into{
+        height: 300px;
+        width: 80%;
+        margin-bottom: 50px;
+        text-align: justify;
+    }
+    #pg{
+        padding: 10px;
+        margin: 20px;
+        font-family:  'Amatic SC', cursive;
+        font-weight:bolder;
+        font-size: large;
+    
+    }
+    
+    
+    .meat{
+        height: 350px;
+        padding: 20px;
+        width: 250px;
+        display: inline-block;
+        position: relative;
+        bottom:130px;
+        font-family:  'Amatic SC', cursive;
+        font-weight:bolder;
+        font-size: large;
+    
+    }
+        
+    
+    .egusi{
+        height: 350px;
+        width: 250px;
+        padding: 20px;
+        display: inline-block;
+        top:10px;
+        position: relative;
+        margin-left: 20px;
+        margin-top: 0px;
+        font-family:  'Amatic SC', cursive;
+        font-weight:bolder;
+        font-size: larger;   
+    }
+    
+    .stock{
+        font-family:  'Amatic SC', cursive;
+        font-size: larger;
+        font-weight: bolder;
+        height: 200px;
+        width: 80%;
+        margin: 20px;
+    }
+    
+    .soup{
+        font-family:  'Amatic SC', cursive;
+        font-size: larger;
+        font-weight: bolder;
+        height: 300px;
+        width: 80%;
+        margin: 20px;
+        margin-top: 30px;
+        padding: 20px;
+}
+}
