@@ -1,0 +1,119 @@
+body{
+    background-color:#4d3817;
+    border: 5px solid #9cc051;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+#First{
+    text-align: center;
+    font-size: 2rem;
+    color:#4d908e;
+    font-family: 'Caveat', cursive;
+    
+}
+
+.jpg{
+   width: 900px;
+   height: 400px;
+   align-items: center;
+   margin: 10px;
+   border-radius: 10px;
+}
+
+.dots{
+    height:400px;
+    width:400px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.second{
+    height: 400px;
+    width: 380px;
+    margin: 10px;
+    border-radius: 10px;
+}
+.intro{
+    height: 750px;
+    width: 99%;
+    background-color:#4d908e;
+    padding: 10px;
+    border: 10px;
+    margin-right: 30px;
+    border-radius: 10px;
+    color: #5b4a29;
+    font-size: 20px;
+    font-family: 'Caveat', cursive;
+    
+}
+
+footer{
+    color:#4d908e;
+    font-size: 20px;
+    font-family: 'Caveat', cursive;
+    float: clear;
+    margin-top: 10px;
+    
+}
+
+@media(max-width:680px){
+    body{
+        background-color:#4d3817;
+        border: 5px solid #9cc051;
+        padding: 10px;
+        border-radius: 10px;
+    }
+    
+    #First{
+        text-align: center;
+        font-size: 2rem;
+        color:#4d908e;
+        font-family: 'Caveat', cursive;
+        
+    }
+    
+    .jpg{
+       width: 900px;
+       height: 400px;
+       align-items: center;
+       margin: 10px;
+       border-radius: 10px;
+    }
+    
+    .dots{
+        height:400px;
+        width:400px;
+        margin: 10px;
+        border-radius: 10px;
+    }
+    
+    .second{
+        height: 400px;
+        width: 380px;
+        margin: 10px;
+        border-radius: 10px;
+    }
+    .intro{
+        height: 750px;
+        width: 99%;
+        background-color:#4d908e;
+        padding: 10px;
+        border: 10px;
+        margin-right: 30px;
+        border-radius: 10px;
+        color: #5b4a29;
+        font-size: 20px;
+        font-family: 'Caveat', cursive;
+        
+    }
+    
+    footer{
+        color:#4d908e;
+        font-size: 20px;
+        font-family: 'Caveat', cursive;
+        float: clear;
+        
+    }
+}
+
