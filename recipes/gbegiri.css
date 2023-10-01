@@ -35,7 +35,7 @@ body{
     border-radius: 10px;
 }
 .intro{
-    height: 750px;
+    height: 800px;
     width: 99%;
     background-color:#4d908e;
     padding: 10px;
@@ -57,7 +57,7 @@ footer{
     
 }
 
-@media(max-width:680px){
+@media(max-width:700px){
     body{
         background-color:#4d3817;
         border: 5px solid #9cc051;
@@ -95,7 +95,7 @@ footer{
         border-radius: 10px;
     }
     .intro{
-        height: 750px;
+        height: 800px;
         width: 99%;
         background-color:#4d908e;
         padding: 10px;
